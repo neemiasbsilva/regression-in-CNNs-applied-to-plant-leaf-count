@@ -27,7 +27,10 @@
   - Sklearn;
   - Skimage.
 
+#
+
 <p align="justify">The dataset was disponible to the competition <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)</a>.</p>
+
 #
 
 For more detail, access the doi: <a href="https://doi.org/10.5753/wvc.2019.7627"> Neemias B. Silva & Wesley N. Gonçalvez </a>
