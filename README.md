@@ -30,7 +30,7 @@
 The dataset was disponible to the competition <a href="">CVPPP</a>.
 #
 
-For more detail, acess the doi: <a href="https://doi.org/10.5753/wvc.2019.7627"> Neemias B. Silva & Wesley N. Gonçalvez </a>
+For more detail, access the doi: <a href="https://doi.org/10.5753/wvc.2019.7627"> Neemias B. Silva & Wesley N. Gonçalvez </a>
 
 #
 
