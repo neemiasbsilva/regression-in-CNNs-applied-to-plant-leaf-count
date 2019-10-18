@@ -11,6 +11,7 @@
 
 **Bellow is a description about the experiments:**
 <ul> 
+    <li> Jupyter notebook;
     <li>Was utilized a <b>GPU NVDIA TITAN X</b>.
 </ul>
 
@@ -24,8 +25,7 @@
   - Numpy;
   - os;
   - Sklearn;
-  - Skimage;
-  - and jupyter notebook.
+  - Skimage.
 
 <p align="justify">The dataset was disponible to the competition <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)</a>.</p>
 #
