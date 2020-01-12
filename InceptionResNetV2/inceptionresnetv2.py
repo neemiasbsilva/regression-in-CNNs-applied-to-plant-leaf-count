@@ -408,13 +408,3 @@ cbar.set_label("Number of Leaves", labelpad=+1)
 plt.show()
 
 
-
-# In[ ]:
-
-
-x = []
-x.append(x_test[0,:])
-x = np.asarray(x)
-
-print(x.shape)
-
