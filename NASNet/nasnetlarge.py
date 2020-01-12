@@ -167,12 +167,18 @@ model = Model(inputs=model.input, outputs=x)
 model.summary()
 
 
+# **Using RMSprop optimizer, mean absolute error with metrics, and mean square erro with loss**
+
 # In[ ]:
 
 
 opt = RMSprop(lr=0.0001)
 model.compile(loss='mean_squared_error', optimizer=opt, metrics=['mae'])
 
+
+# **Puting the model for fit**
+# 
+# **NOTE: The number of epochs is set to 100**
 
 # In[11]:
 
