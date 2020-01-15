@@ -38,7 +38,7 @@ system.
 
 #
 
-For more detail, access the doi: <a href="https://doi.org/10.5753/wvc.2019.7627"> [PDF] </a>
+For more detail, access the doi: <a href="https://doi.org/10.5753/wvc.2019.7627"> [PDF] </a>.
 
 #
 
