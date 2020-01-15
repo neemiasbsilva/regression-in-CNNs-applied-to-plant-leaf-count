@@ -11,8 +11,13 @@
 
 **Bellow is a description about the experiments:**
 <ul> 
-    <li> Jupyter notebook;
-    <li>Was utilized a <b>GPU NVDIA TITAN X</b>.
+    <li> Python script and Jupyter notebook;
+    <li> Was used a desktop computer with
+Intel(R) Xeon(R) CPU E3-1270@3.80 GHz, 64 GB memory, and NVIDIA
+Titan V graphics card (5120 Compute Unified Device Architecture -
+CUDA cores and 12 GB graphics memory). The methods were implemented
+using Keras-Tensorflow on the Ubuntu 18.04 operating
+system.
 </ul>
 
 #
