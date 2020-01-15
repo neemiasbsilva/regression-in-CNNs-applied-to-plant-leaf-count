@@ -42,7 +42,7 @@ For more detail, access the doi: <a href="https://doi.org/10.5753/wvc.2019.7627"
 
 #
 
-<p align="justify">Thanks for the teacher PhD Wesley Nunes Gonçalvez for contributing for this developer.</p>
+<p align="justify">Thanks for the teacher <b>PhD Wesley Nunes Gonçalvez</b> for contributing for this developer.</p>
 
 #
 
