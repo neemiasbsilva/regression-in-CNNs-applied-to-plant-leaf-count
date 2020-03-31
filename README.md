@@ -58,7 +58,6 @@ system.
 <p align="center"><img src="dataset.png" width="30%" height="30%"></p>
 <h6 align="center"> The dataset was disponible to the competition <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)</a>. </h6>
 
-<p align="justify"></p>
 
 
 
