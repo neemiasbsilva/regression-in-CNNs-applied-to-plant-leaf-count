@@ -55,6 +55,9 @@ system.
 
 ## Dataset
 
+<p align="center"><img src="dataset.png" width="85%" height="85%"></p>
+<h6 align="center"> Plant Phenotyping. </h6>
+
 <p align="justify">The dataset was disponible to the competition <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)</a>.</p>
 
 
