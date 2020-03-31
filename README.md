@@ -2,7 +2,7 @@
 
 ## 
 
-For more detail, access the doi: [da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627).
+For more detail, access the following work [da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627).
 
 ## About
 
