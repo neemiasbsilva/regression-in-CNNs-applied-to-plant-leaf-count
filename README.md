@@ -1,14 +1,13 @@
 # Regression in Convolution Neural Network Applied to Plant Leaf Count
-#
+
+## About
+
 <p align="justify"  style=font-size:15px><b>Recent studies have shown that computer vision techniques developed to boost the count of plant leaves brings significant improvements. In this paper, a proposal was presented for plant leaf counting using Convolutional Neural Networks (CNNs). To accomplish the training process, CNNs architectures were adapted to solve regression problems. To evaluate the proposed method, an image dataset with 810 images of three species (Arabidopsis, Tobacco and one mutation) was used. The results showed that Xception architecture obtained the best results with R2 of 0.96 and MAE (mean absolute error) of 0.46.</b>
 </p>
 
-#
-
 <p align="justify" style=font-size:14><b>This repository was create for contribute the Deep Learning and Machine Learning.</b></p>
 
-#
-
+## Experiments
 **Bellow is a description about the experiments:**
 <ul> 
     <li> Python script and Jupyter notebook;
@@ -22,8 +21,28 @@ system.
 
 #
 
-**Detail about the implementation**
+## Install the following packages
 
+  * Sklearn 0.22.2.
+  ```
+    $ pip install -U scikit-learn
+  ```
+  * TensorFlow
+  ```
+    $ pip install tensorflow
+  ```
+  * Keras
+  ```
+    $ pip install keras
+  ```
+  * Matplotlib
+  ```
+    $ python -m pip install -U matplotlib
+  ```
+  * Os
+  ```
+    $ 
+  ```
 - Library util:
   - Keras; 
   - TensorFlow;
