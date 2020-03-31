@@ -41,17 +41,15 @@ system.
   ```
   * Os
   ```
-    $ 
+    $ pip install os-sys
   ```
-- Library util:
-  - Keras; 
-  - TensorFlow;
-  - Numpy;
-  - os;
-  - Sklearn;
-  - Skimage.
+  * Skimage
+  ```
+    & pip install scikit-image
+  ```
 
-#
+
+## Dataset
 
 <p align="justify">The dataset was disponible to the competition <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)</a>.</p>
 
