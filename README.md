@@ -1,5 +1,6 @@
 # Regression in Convolution Neural Network Applied to Plant Leaf Count
 
+[![Build Status](https://travis-ci.org/keras-team/keras.svg?branch=master)](https://travis-ci.org/keras-team/keras) [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
 ## 
 
 For more detail, access the following work [da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627).
