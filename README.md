@@ -1,16 +1,15 @@
 # Regression in Convolution Neural Network Applied to Plant Leaf Count
 
 [![Build Status](https://travis-ci.org/keras-team/keras.svg?branch=master)](https://travis-ci.org/keras-team/keras) [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
-## 
 
-For more detail, access the following work [da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627).
-
-## About
+## About 
 
 <p align="justify"  style=font-size:15px><b>Recent studies have shown that computer vision techniques developed to boost the count of plant leaves brings significant improvements. In this paper, a proposal was presented for plant leaf counting using Convolutional Neural Networks (CNNs). To accomplish the training process, CNNs architectures were adapted to solve regression problems. To evaluate the proposed method, an image dataset with 810 images of three species (Arabidopsis, Tobacco and one mutation) was used. The results showed that Xception architecture obtained the best results with R2 (coefficient of determination) of 0.96 and MAE (mean absolute error) of 0.46.</b>
 </p>
 
-<p align="justify" style=font-size:14><b>This repository was create for contribute the Deep Learning and Machine Learning.</b></p>
+For more detail, access the following work [da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627).
+
+This repository was create for contribute the Deep Learning and Machine Learning.
 
 ## Experiments
 **Bellow is a description about the experiments:**
