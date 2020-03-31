@@ -49,7 +49,7 @@ system.
   ```
   * Skimage
   ```
-    & pip install scikit-image
+    $ pip install scikit-image
   ```
 
 
