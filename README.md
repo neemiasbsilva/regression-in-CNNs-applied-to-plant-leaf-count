@@ -2,14 +2,18 @@
 
 [![Build Status](https://travis-ci.org/keras-team/keras.svg?branch=master)](https://travis-ci.org/keras-team/keras) [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
 
-## About 
 
-<p align="justify"  style=font-size:15px><b>Recent studies have shown that computer vision techniques developed to boost the count of plant leaves brings significant improvements. In this paper, a proposal was presented for plant leaf counting using Convolutional Neural Networks (CNNs). To accomplish the training process, CNNs architectures were adapted to solve regression problems. To evaluate the proposed method, an image dataset with 810 images of three species (Arabidopsis, Tobacco and one mutation) was used. The results showed that Xception architecture obtained the best results with R2 (coefficient of determination) of 0.96 and MAE (mean absolute error) of 0.46.</b>
-</p>
+## Dataset
 
-For more detail, access the following work [da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627).
+<p align="center"><img src="dataset.png" width="30%" height="30%"></p>
+<h6 align="center"> Example of the dataset used for these experiments. For more details about the dataset you can visite the <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">CVPP</a> web site.</h6>
 
-This repository was create for contribute the Deep Learning and Machine Learning.
+This repository contains some of experiments used for evaluating the regression with cnn (__Convolutional Neural Networks__) for counting better leafs. The dataset was available of the contents __Computer Vision Problems in Plant Phenotyping__.
+
+As result one paper was produced and publicated in the WorkShop of Computer Vision (2019) where you can ready in the following link([da Silva and Gonçalvez (2019)](https://doi.org/10.5753/wvc.2019.7627)).
+
+__Note:__ this paper was writer 80% in Portuguese, so is crucial you understand this language.
+
 
 ## Experiments
 **Bellow is a description about the experiments:**
@@ -52,13 +56,13 @@ system.
     $ pip install scikit-image
   ```
 
+## Some Results
 
-## Dataset
+Bellow, follow two results apply to the test set using the metrics __MAE__ (Mean Absolute error) and __R2__ (Coefficient of Deterimantion):
 
-<p align="center"><img src="dataset.png" width="30%" height="30%"></p>
-<h6 align="center"> The dataset was disponible to the competition <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">COMPUTER VISION PROBLEMS IN PLANT PHENOTYPING (CVPPP)</a>. </h6>
-
-
+| __Mean Absolute Error__| __Coefficient of Determination__ |
+|:-------------:|:-------------:|
+| 0.46     | 0.96|.
 
 
 ## Acknowledgement
