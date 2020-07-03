@@ -60,7 +60,7 @@ system.
 
 ## Some Results
 
-Bellow, follow two results apply to the test set using the metrics __MAE__ (Mean Absolute error) and __R2__ (Coefficient of Deterimantion):
+Bellow, follow two results apply to the test set using the architecture __Xception__, and the metrics used was __MAE__ (Mean Absolute error) and __R2__ (Coefficient of Determination):
 
 | __Mean Absolute Error__| __Coefficient of Determination__ |
 |:-------------:|:-------------:|
