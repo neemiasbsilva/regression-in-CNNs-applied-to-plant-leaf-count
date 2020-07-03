@@ -8,9 +8,9 @@
 ## Dataset
 
 <p align="center">
-<img src="dataset-01.png" width="30%" height="30%">
-<img src="dataset-02.png" width="38.1%" height="30%">
-<img src="dataset-03.png" width="34%" height="30%"></p>
+<img src="dataset-01.png" width="29%" height="30%">
+<img src="dataset-02.png" width="37.1%" height="30%">
+<img src="dataset-03.png" width="30.5%" height="30%"></p>
 <h6 align="center"> Example of the dataset used for these experiments. For more details about the dataset you can visite the <a href="https://www.plant-phenotyping.org/CVPPP2017-CFP">CVPP</a> web site.</h6>
 
 This repository contains some of experiments used for evaluating the regression with cnn (__Convolutional Neural Networks__) for counting better leafs. The dataset was available of the contents __Computer Vision Problems in Plant Phenotyping__.
