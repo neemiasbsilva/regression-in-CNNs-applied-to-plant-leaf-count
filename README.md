@@ -65,9 +65,9 @@ system.
 
 Bellow, follow two results that have been applied to the test set using the architecture __Xception__, and the metrics used was __MAE__ (Mean Absolute error) and __R2__ (Coefficient of Determination):
 
-| __Mean Squared Error__| __Mean Absolute Error__ | __Coefficient of Determination__|
-|:-------------:|:-------------:|:-------------:|
-| 1.09 | 0.46     | 0.96|
+| __Architecture__ | __Mean Squared Error__| __Mean Absolute Error__ | __Coefficient of Determination__|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|__Xception__ | 1.09 | 0.46     | 0.96|
 
 
 ## Acknowledgement
