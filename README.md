@@ -96,7 +96,7 @@ Bellow, follow two results that have been applied to the test set using the arch
 
 ## Acknowledgement
 
-<p align="justify">Thanks for the teacher <b>PhD Wesley Nunes Gonçalvez</b> for contributing for this developer.</p>
+<p align="justify">Thanks for the teacher <b>PhD Wesley Nunes Gonçalvez</b> for contributing for this project.</p>
 
 ## License
 
