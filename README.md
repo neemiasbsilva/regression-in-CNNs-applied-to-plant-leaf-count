@@ -3,6 +3,7 @@
 [![Keras](https://img.shields.io/pypi/format/Keras)](https://travis-ci.org/keras-team/keras)
 [![Tensor](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
 
+
 ## Table of Contents
 
 - [Dataset](##dataset)
@@ -103,6 +104,9 @@ Bellow, follow two results that have been applied to the test set using the arch
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
+## References
+
+[1]:da Silva, Neemias Bucéli, and Wesley Nunes Gonçalves. "Regression in Convolutional Neural Networks applied to Plant Leaf Counting." Anais do XV Workshop de Visão Computacional. SBC, 2019.
 
 #
 
