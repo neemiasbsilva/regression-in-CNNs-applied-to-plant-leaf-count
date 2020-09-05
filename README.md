@@ -4,6 +4,15 @@
 
 [![Tensor](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
 
+## Table of Contents (Optional)
+
+- [Dataset](##dataset)
+- [Experiments](##experiments)
+- [Getting Started](##gettingstarted)
+- [Some Results](##someresults)
+- [License](##license)
+- [Reference](##reference)
+
 
 ## Dataset
 
@@ -32,9 +41,9 @@ using Keras-Tensorflow on the Ubuntu 18.04 operating
 system.
 </ul>
 
-#
+## Getting Started
 
-## Install the following packages
+### Install the following packages
 
   * Sklearn 0.22.2.
   ```
@@ -61,6 +70,20 @@ system.
     $ pip install scikit-image
   ```
 
+### Run
+
+> For run the experiment you need to access the respective architecture folder first, you can choose bellow the best way for run.
+
+If you need run jupyter:
+```
+    jupyter-notebook name_experiment.ipynb 
+```
+
+You can run using python script also:
+```
+    python name_experiment.py
+```
+
 ## Some Results
 
 Bellow, follow two results that have been applied to the test set using the architecture __Xception__, and the metrics used was __MAE__ (Mean Absolute error) and __R2__ (Coefficient of Determination):
@@ -73,6 +96,13 @@ Bellow, follow two results that have been applied to the test set using the arch
 ## Acknowledgement
 
 <p align="justify">Thanks for the teacher <b>PhD Wesley Nunes Gonçalvez</b> for contributing for this developer.</p>
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
 
 #
 
