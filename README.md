@@ -3,7 +3,7 @@
 [![Keras](https://img.shields.io/pypi/format/Keras)](https://travis-ci.org/keras-team/keras)
 [![Tensor](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Dataset](##dataset)
 - [Experiments](##experiments)
