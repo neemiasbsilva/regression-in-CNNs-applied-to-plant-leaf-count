@@ -1,4 +1,4 @@
-# Regression in Convolution Neural Network Applied to Plant Leaf Count
+# Regression in Convolutional Neural Network Applied to Plant Leaf Count
 > <cite>[Silva and Gonçalvez, 2019][1]</cite>
 
 [![Keras](https://img.shields.io/pypi/format/Keras)](https://travis-ci.org/keras-team/keras)
