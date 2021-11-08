@@ -1,8 +1,8 @@
 # Regression in Convolutional Neural Network Applied to Plant Leaf Count
 > <cite>[Silva and Gonçalvez, 2019][1]</cite>
 
-[![Keras](https://img.shields.io/pypi/format/Keras)](https://travis-ci.org/keras-team/keras)
-[![Tensor](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 ## Table of Contents
@@ -112,3 +112,7 @@ Bellow, follow two results that have been applied to the test set using the arch
 #
 
 <p align="center">Sincerely <a href="https://github.com/neemiasbsilva"> Neemias B. Silva</a>.</p>
+
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
